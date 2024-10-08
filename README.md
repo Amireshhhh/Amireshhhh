@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, This is my GitHub and all the corresponding codes and projects that I worked on!  👋
 
 <!--
 **Amireshhhh/Amireshhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
