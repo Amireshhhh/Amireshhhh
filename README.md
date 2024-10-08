@@ -1,4 +1,4 @@
-## Hi there, This is my GitHub and all the corresponding codes and projects that I worked on!  👋
+## Hi there, This is my GitHub/Website. You can find the projects that I was working on here!  👋
 
 <!--
 **Amireshhhh/Amireshhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
