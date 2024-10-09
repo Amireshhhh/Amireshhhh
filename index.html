@@ -20,15 +20,47 @@
     <main>
         <section>
             <h2>About Me</h2>
-            <p>Hi! I'm [Your Name], a data scientist and mathematician currently pursuing a PhD. This site showcases my projects, publications, and resume.</p>
+            <p>Hi! I'm Amirreza Eshraghi, a data scientist and mathematician pursuing a PhD in Applied Mathematics at IIT.</p>
         </section>
+
+        <!-- New section for the Docker project -->
+        <section>
+            <h2>Docker News Scraper Project</h2>
+            <p>This project scrapes news headlines from Bloomberg, CNBC, WSJ, Benzinga, and Yahoo Finance using Python, BeautifulSoup, and Docker. You can find the full code and instructions on how to run it in the <a href="https://github.com/YOUR-USERNAME/Scrapper">GitHub repository</a>.</p>
+
+            <h3>How It Works</h3>
+            <p>The project scrapes news headlines from various websites, stores them in a CSV file, and serves them via a Flask web application. The code is containerized using Docker, ensuring that it can run consistently across different environments.</p>
+
+            <h3>Technologies Used</h3>
+            <ul>
+                <li>Python (Requests, BeautifulSoup)</li>
+                <li>Pandas for data storage</li>
+                <li>Flask for web application</li>
+                <li>Docker for containerization</li>
+            </ul>
+
+            <h3>How to Run the Project Locally</h3>
+            <ol>
+                <li>Clone the project from <a href="https://github.com/YOUR-USERNAME/Scrapper">GitHub</a></li>
+                <li>Ensure you have Docker installed on your system.</li>
+                <li>Navigate to the project directory and build the Docker container using the following command:</li>
+                <pre><code>docker build -t my-scrapper .</code></pre>
+                <li>Run the container:</li>
+                <pre><code>docker run -p 5000:5000 my-scrapper</code></pre>
+                <li>Open your browser and go to <code>http://localhost:5000</code> to view the latest headlines!</li>
+            </ol>
+
+            <h3>Screenshot of the Web App</h3>
+            <img src="path-to-screenshot.png" alt="News Scraper App Screenshot" style="width: 80%;">
+        </section>
+
         <section>
             <h2>Latest Projects</h2>
             <p>Check out my <a href="projects.html">projects</a> to see what I've been working on!</p>
         </section>
     </main>
     <footer>
-        <p>© [Year] [Your Name]. All rights reserved.</p>
+        <p>© [2024] [Amirreza Eshraghi]. All rights reserved.</p>
     </footer>
 </body>
 </html>
